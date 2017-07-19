@@ -1,0 +1,134 @@
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\ApplicationInsights.config
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\csc.exe
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\csc.exe.config
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\csc.rsp
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\csi.exe
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\csi.rsp
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CSharp.Core.targets
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.VisualBasic.Core.targets
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\System.AppContext.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\System.Collections.Immutable.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\System.Diagnostics.StackTrace.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\System.IO.FileSystem.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\System.IO.FileSystem.Primitives.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\System.Reflection.Metadata.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\vbc.exe
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\vbc.exe.config
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\vbc.rsp
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\VBCSCompiler.exe
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\roslyn\VBCSCompiler.exe.config
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Lego.dll.config
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Lego.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Lego.pdb
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Antlr3.Runtime.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.Agent.Intercept.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.DependencyCollector.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.PerfCounterCollector.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.ServerTelemetryChannel.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.Web.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.WindowsServer.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.ApplicationInsights.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.Web.Infrastructure.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Newtonsoft.Json.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.Helpers.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.Mvc.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.Optimization.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.Razor.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.Deployment.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.Razor.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\WebGrease.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.Helpers.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.Mvc.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.Optimization.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.Razor.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.Deployment.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.Razor.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Antlr3.Runtime.pdb
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Newtonsoft.Json.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.ApplicationInsights.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.DependencyCollector.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.ServerTelemetryChannel.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.WindowsServer.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.Web.xml
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\obj\Debug\Lego.csprojResolveAssemblyReference.cache
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\obj\Debug\Lego.dll
+g:\users\g-lance\documents\visual studio 2017\Projects\Lego\Lego\obj\Debug\Lego.pdb
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\ApplicationInsights.config
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\csc.exe
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\csc.exe.config
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\csc.rsp
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\csi.exe
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\csi.rsp
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\System.AppContext.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\vbc.exe
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\vbc.exe.config
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\vbc.rsp
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\VBCSCompiler.exe
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Lego.dll.config
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Lego.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Lego.pdb
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Antlr3.Runtime.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.Web.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Newtonsoft.Json.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.Helpers.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.Mvc.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.Optimization.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.Razor.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.Razor.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\WebGrease.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.Helpers.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.Mvc.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.Optimization.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.Razor.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\System.Web.WebPages.Razor.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Antlr3.Runtime.pdb
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Newtonsoft.Json.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\bin\Microsoft.AI.Web.xml
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\obj\Debug\Lego.csprojResolveAssemblyReference.cache
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\obj\Debug\Lego.dll
+C:\Users\Garrett Lancy\Documents\Visual Studio 2017\Projects\Lego\Lego\obj\Debug\Lego.pdb
