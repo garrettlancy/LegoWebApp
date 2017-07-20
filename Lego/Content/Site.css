@@ -31,3 +31,29 @@ textarea {
     width: 50%;
     margin: 0 auto;
 }
+
+.table-image {
+    margin: 0 auto;
+    width: 65%;
+}
+
+.set-name {
+    font-size: 20pt;
+}
+
+body {
+    background-image: url("/Content/Images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.set-background {
+    background-color: white;
+}
+
+.width {
+    width: 100%;
+    margin: 0 auto;
+}
+
+

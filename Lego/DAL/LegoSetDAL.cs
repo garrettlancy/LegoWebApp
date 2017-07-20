@@ -16,7 +16,7 @@ namespace Lego.DAL
 
             try
             {
-                using (SqlConnection conn = new SqlConnection("Data Source=.\\SQLEXPRESS;Initial Catalog=LegoDb;Integrated Security=True"))
+                using (SqlConnection conn = new SqlConnection("Data Source=legowebappdbserver.database.windows.net;Initial Catalog=Lego;Integrated Security=False;User ID=garrett;Password=Password123;Connect Timeout=15;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"))
                 {
                     conn.Open();
 
